@@ -1,31 +1,31 @@
-# 🌱 Eva Lambert 👩‍💻 Full stack developer 
+# 🌱 Eva Lambert 👩‍💻 Full Stack Developer en devenir
 
-Helloow ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨 Actuellement en formation "Web Developper Junior" chez BeCode Bruxelles, j'ai pour objectif de développer mes compétences afin mener à bien des projets de sites foufou et ambitieux 🔥
+Helloow ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour pouvoir mener à bien des projets de sites ambitieux 🔥 et proposer mes services à une entreprise.
 
-## 🤹‍♀️ Surprenantes compétences
-- Pratique le chant polyphonique traditionnel 
-- Pratique la sérigraphie 
-- Collectionneuse d'images et d'objets graphique 
+## 🤹‍♀️ Compétences surprenantes
+- Chante au sein d'une chorale polyphonique traditionnel
+- Un côté Mike Gyver (astuce) dans la vie de tous les jours 
+- Capable de faire de très très belles grimaces
 
 ## 💖 Ce que je préfère sur cette terre 
-- Mon amoureux, évidemment !
-- Découvrir ! Apprendre ! Toujours ! Toujours !
-- Regarder les gens danser 
+- Mon amoureux, of course…
+- Découvrir ! Apprendre ! Évoluer ! Toujours ! Toujours !
+- Le mouvement, j'aime quand ça bouge !
 
 ## 🔥 Les objectifs que je souhaite atteindre chez BeCode
-- Me dépasser 
+- Sortir de ma zone de confort
 - Acquérir une technique solide 
 - Profiter de l'énergie de groupe pour découvrir de nouveaux process 
-- Augmenter ma productivité
-
+- Augmenter ma productivité 
+- Devenir Front-end developer et pourquoi pas Full Stack Dev
 
 ## 😱 Mes peurs 
-- Les pannes de café
+- Que la machine à café tombe en panne !
 
-## 🐎 Les choses que j'attends avec impatience 
-- Débuter JavaScript pour animer des sites et tester des trucs fouuuuuu
+## 🐎 Ce que j'attends avec impatience 
+- Débuter JavaScript pour animer des sites et tester des trucs foufou
 
-## 👉👈 Les 3 valeurs que j'apprécie je travailles en équipe
+## 👉👈 3 valeurs que j'apprécie dans le travail en équipe
 - Collaboration
 - Communication
-- Confiance
+- Bonne humeur 
