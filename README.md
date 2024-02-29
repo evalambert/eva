@@ -1,15 +1,15 @@
-# 🌱 Eva Lambert 👩‍💻 Full Stack Developer en devenir
+# 🌱 Eva Lambert 👩‍💻 Front end developer
 
-Helloow ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour pouvoir mener à bien des projets de sites ambitieux 🔥 et proposer mes services à une entreprise.
+Hello ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour pouvoir mener à bien des projets de sites ambitieux 🔥 et proposer mes services aux entreprise.
 
 ## 🤹‍♀️ Compétences surprenantes
-- Chante au sein d'une chorale polyphonique traditionnel
-- Un côté Mike Gyver (astuce) dans la vie de tous les jours 
-- Capable de faire de très très belles grimaces
+- Chante au sein d'une chorale polyphonique traditionnelle
+- Un côté Mike Gyver dans la vie de tous les jours 
+- Dingue de tricot ! 
 
 ## 💖 Ce que je préfère sur cette terre 
 - Mon amoureux, of course…
-- Découvrir ! Apprendre ! Évoluer ! Toujours ! Toujours !
+- Découvrir ! Apprendre ! Évoluer ! Toujourstoujours !
 - Le mouvement, j'aime quand ça bouge !
 
 ## 🔥 Les objectifs que je souhaite atteindre chez BeCode
@@ -26,6 +26,6 @@ Helloow ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir �
 - Débuter JavaScript pour animer des sites et tester des trucs foufou
 
 ## 👉👈 3 valeurs que j'apprécie dans le travail en équipe
-- Collaboration
-- Communication
-- Bonne humeur 
+- Bonne communication
+- Partage et transmition
+- Joie et bonne humeur 
