@@ -3,7 +3,7 @@
 Hello ! Je m'appelle Eva, je suis graphiste et web développeuse 🎨 Actuellement en formation "Web Developer Junior" chez BeCode Bruxelles, je souhaite développer mes compétences pour intégrer une agence et travailler sur des projets créatifs et ambitieux 🔥 
 
 ## 🤹‍♀️ Compétences surprenantes
-- Je fais de la sérigraphie en atelier sur mon temps libre 
+- Sérigraphie en atelier sur mon temps libre 
 - Un côté Mike Gyver dans la vie de tous les jours 
 - Dingue de tricot ! 
 
