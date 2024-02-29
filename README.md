@@ -9,7 +9,7 @@ Hello ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨
 
 ## 💖 Ce que je préfère sur cette terre 
 - Mon amoureux, of course…
-- Découvrir ! Apprendre ! Évoluer ! Toujourstoujours !
+- Découvrir ! Apprendre ! Évoluer ! Toujours ! Toujours !
 - Le mouvement, j'aime quand ça bouge !
 
 ## 🔥 Les objectifs que je souhaite atteindre chez BeCode
