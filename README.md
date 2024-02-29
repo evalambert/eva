@@ -17,7 +17,7 @@ Hello ! Je m'appelle Eva, je suis graphiste et web développeuse en devenir 🎨
 - Acquérir une technique solide 
 - Profiter de l'énergie de groupe pour découvrir de nouveaux process 
 - Augmenter ma productivité 
-- Devenir Front-end developer et pourquoi pas Full Stack Dev
+- Devenir Front-end developer et pourquoi pas Full Stack
 
 ## 😱 Mes peurs 
 - Que la machine à café tombe en panne !
